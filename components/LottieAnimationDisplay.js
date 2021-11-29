@@ -4,8 +4,8 @@ import LottieView from 'lottie-react-native';
 
 const LottieAnimationDisplay = ({ source, width, height }) => {
   return (
-    <View style={{width: width, height: height}}>
-      <LottieView source={source} loop autoPlay/>
+    <View style={{ width: width, height: height }}>
+      <LottieView source={source} loop autoPlay />
     </View>
   )
 }
