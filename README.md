@@ -1,0 +1,2 @@
+##Lottie Animations example
+This is the code for a blog post created for SSW 695. This is a simple tutorial about Lottie Animations and how they work as well as how they can be used in react native applications running with the expo-cli.
